@@ -1,0 +1,15 @@
+import openai
+
+openai.api_key = 'SUA_API_KEY'
+
+def resumir_mensagens(mensagens):
+    resposta = openai.Completion.create(
+        model="text-davinci-003",
+        prompt="Resuma as seguintes mensagens:\n" + "\n".join(mensagens),
+        max_tokens=50
+    )
+    return resposta.choices[0].text.strip()
+
+mensagens = [message.text for message in messages]
+resumo = resumir_mensagens(mensagens)
+print(resumo)

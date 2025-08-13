@@ -1,0 +1,12 @@
+Codigo utilizado na aula:
+https://github.com/guilhermeonrails/idcp-alura/blob/A7X3D9/aulas.ipynb
+
+https://github.com/guilhermeonrails/idcp-alura/blob/ZQ19L5/Roteiro_Imers%C3%A3o_Dados_com_Python.ipynb
+
+Colab ambiente de desenvolvimento on line da google:
+	https://colab.research.google.com/drive/1svBzgcC8iJa7OahEaPwWvLKtVllOVjle?authuser=0#scrollTo=RRMzfXnzZOP1
+
+https://discord.com/channels/1331342790965199030/onboarding
+
+C:\Users\denis\OneDrive\Documentos\python
+
